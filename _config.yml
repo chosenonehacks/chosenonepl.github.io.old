@@ -3,10 +3,10 @@ permalink:           pretty
 
 # Setup
 title:               hal9k2 blog
-tagline:             The Jekyll Butler
-url:                 https://hal9k2.github.io
+tagline:             learn security 
+url:                 
 paginate:            1
-baseurl:             "hal9k2.github.io"
+baseurl:             ""
 
 # Assets
 #
