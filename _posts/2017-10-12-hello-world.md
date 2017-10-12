@@ -1,3 +1,8 @@
+---
+layout: post
+title: Starting OSCP
+---
+
 I decided to start my [OSCP](https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/) certification journey. I will be trying to document my struggles over the period of lab access up to exam day.
 
 It was a very hard decision for me if I should start or not. I still don't feel to be confident enough but time will see.
