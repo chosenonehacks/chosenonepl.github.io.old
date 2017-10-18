@@ -11,7 +11,4 @@ I bought so far 90 days of lab access, but I think 1 month of extension will be 
 
 My materials and lab access should arrive on 12.11.2017 to that day I hope I will find time to play more with some vulnerable machines.
 
-<script src="https://gist.github.com/hal9k2/997fc696ba7de04a3dcdf21745b78b84.js"></script>
-
-<script src="https://gist.github.com/hal9k2/1b49ed20c6dcccaa34993e77a08710b7.js"></script>
 How hard is this certification you can read by looking on this [link](https://www.offensive-security.com/testimonials-and-reviews/)
