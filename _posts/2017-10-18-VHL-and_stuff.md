@@ -16,5 +16,12 @@ I am also concerned about my Windows skills and I am preparing spinets and mater
 
 <script src="https://gist.github.com/hal9k2/1b49ed20c6dcccaa34993e77a08710b7.js"></script>
 
+And last one: 
+
+<script src="https://gist.github.com/hal9k2/850f43824dd9339eb305ac42bd94ab7e.js"></script>
+
+Good reads:
+(http://resources.infosecinstitute.com/powershell-toolkit-powersploit/#gref)[http://resources.infosecinstitute.com/powershell-toolkit-powersploit/#gref]
+
 For now thats all. Peace out.
 
