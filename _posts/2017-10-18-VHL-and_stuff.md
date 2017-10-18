@@ -12,6 +12,9 @@ I also alredy setup kali vmware box for VHL and OSCP, however I noticed issues w
 I am also concerned about my Windows skills and I am prepaing snipets and materials about priviledge escalation. If you want to know how to download file from your kali to Windows machine please check below gists:
 
 
+<script src="https://gist.github.com/hal9k2/997fc696ba7de04a3dcdf21745b78b84.js"></script>
+
+<script src="https://gist.github.com/hal9k2/1b49ed20c6dcccaa34993e77a08710b7.js"></script>
 
 For now thats all. Peace out.
 
