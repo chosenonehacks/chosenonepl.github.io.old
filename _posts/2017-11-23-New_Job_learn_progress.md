@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Job learn progress
+title: New Job learn and progress
 ---
 
 A lot of things happen recently... I got a new job in IT Security. I work as a in SOC (Security Operations Center) as a analyst. I am working mainly in SIEM systems responding to incidents. It's not most sexy job in this area but my experience in security started to counts and I am happy I accomplished one of my goals which was work in this area.
