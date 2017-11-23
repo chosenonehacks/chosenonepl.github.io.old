@@ -1,3 +1,4 @@
+---
 layout: post
 title: New Job learn progress
 ---
