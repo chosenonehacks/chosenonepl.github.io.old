@@ -14,8 +14,9 @@ I created script that you can then alias, so every time you want to connect to O
 Alias script (put it to .bashrc):  
 alias oscpvpn='/root/Desktop/connect/conn.exp OS-XXXX password &'  
 Script:
+
+'''
 #!/usr/bin/expect -f
-#
 
 set config "/root/Desktop/connect/OS-33596-PWK.ovpn"
 set username [lrange $argv 0 0]
@@ -39,7 +40,7 @@ send -- "$username\r"
 send -- "$password\r"
 
 interact
-
+'''
 --
 OSCP status:  
 Current number of excercises done: 1  
