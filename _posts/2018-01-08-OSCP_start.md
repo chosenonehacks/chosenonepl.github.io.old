@@ -9,6 +9,38 @@ Today after Xmas and New Year reset from any security related things I started r
 
 I didn't mention that before Xmas I created and finished my VHL report after rooting 20+ boxes. After that I recived certifcate of completion which is very nice. I also wrote a review on their page, you can read it [here](https://www.virtualhackinglabs.com/reviews/)
 
+Some tips:
+I created script that you can then alias, so every time you want to connect to OSCP network run this script:  
+Alias script (put it to .bashrc):  
+alias oscpvpn='/root/Desktop/connect/conn.exp OS-XXXX password &'  
+Script:
+#!/usr/bin/expect -f
+#
+
+set config "/root/Desktop/connect/OS-33596-PWK.ovpn"
+set username [lrange $argv 0 0]
+set password [lrange $argv 1 1]
+
+set force_conservative 1  ;# set to 1 to force conservative mode even if
+                          ;# script wasn't run conservatively originally
+if {$force_conservative} {
+        set send_slow {1 .1}
+        proc send {ignore arg} {
+                sleep .1
+                exp_send -s -- $arg
+        }
+}
+
+set timeout -1
+spawn openvpn --script-security 2  --config $config --auth-user-pass
+match_max 100000
+expect -exact "Enter Auth Username: "
+send -- "$username\r"
+send -- "$password\r"
+
+interact
+
+--
 OSCP status:  
 Current number of excercises done: 1  
 Current number of rooted boxes: 0  
