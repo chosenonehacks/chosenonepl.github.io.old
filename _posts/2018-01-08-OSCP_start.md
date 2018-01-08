@@ -9,8 +9,8 @@ Today after Xmas and New Year reset from any security related things I started r
 
 I didn't mention that before Xmas I created and finished my VHL report after rooting 20+ boxes. After that I recived certifcate of completion which is very nice. I also wrote a review on their page, you can read it [here](https://www.virtualhackinglabs.com/reviews/)
 
-OSCP status:
-Current number of excercises done: 1
-Current number of rooted boxes: 0
+OSCP status:  
+Current number of excercises done: 1  
+Current number of rooted boxes: 0  
 
 Happy new Year and tons of shells poped :) !!
