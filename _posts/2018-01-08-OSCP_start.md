@@ -12,7 +12,9 @@ I didn't mention that before Xmas I created and finished my VHL report after roo
 Some tips:
 I created script that you can then alias, so every time you want to connect to OSCP network run this script:  
 Alias script (put it to .bashrc):  
+```
 alias oscpvpn='/root/Desktop/connect/conn.exp OS-XXXX password &'  
+```
 Script:
 
 ```
