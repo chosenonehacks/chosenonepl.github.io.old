@@ -4,11 +4,15 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This is my blog about my journey to OSCP certification
+  Hey there! This is my blog about my journey to cyber security lands...
 </p>
 
-In this blog I will share information about my fighting trough OSCP. That's it for now, will add more later as I will get more time ;)
+Initial plans for this blog was to share information about my fighting trough OSCP certification. 
 
-If you like my website, you can follow me on twitter [@hal9k2pl](https://twitter.com/hal9k2pl).
+But now since I passed I might continue this blog as irreguarly as I did on OSCP times. Contents of this blog are mainly just for me. So I don't care wether you read or not ;)
+
+That's it for now, will add more later or not.
+
+You can follow me on twitter [@hal9k2pl](https://twitter.com/hal9k2pl).
 
 Thanks for reading!
